@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1df8ddc0-87ef-4558-a20e-ec86fa6a0b44" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="mybatis-mapper" />
+        <option value="mybatis-config" />
+        <option value="spring-beans.schema" />
+        <option value="springxml" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\environment\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../environment/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\environment\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dfile.encoding=GBK" />
+  </component>
+  <component name="ProjectId" id="2CI66QTVAJUHFUxX8QcAWv4FCuG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindow运行.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AXC/Desktop/SSMStudy/code/SSM/ssm2/src/main/webapp&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;394a1adb180f0c3f87a842366b74ebb3&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AXC\Desktop\SSMStudy\code\SSM\ssm2\src\main\webapp" />
+      <recent name="C:\Users\AXC\Desktop\SSMStudy\code\SSM" />
+      <recent name="C:\Users\AXC\Desktop\SSMStudy\code\SSM\spring_mvc_extension\src\main\resources" />
+      <recent name="C:\Users\AXC\Desktop\SSMStudy\code\SSM\spring_mvc_extension\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\AXC\Desktop\SSMStudy\code\SSM\spring_mvc_ajax\src\main\webapp\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AXC\Desktop\SSMStudy\code\SSM\spring_ioc_xml\src\main\resources" />
+      <recent name="C:\Users\AXC\Desktop\SSMStudy\code\SSM\mybatis_mbg\src\main\resources" />
+      <recent name="C:\Users\AXC\Desktop\SSMStudy\code\SSM\mybatis_helloworld\src\main\resources\com\atguigu\mybatis\mapper" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.atguigu.mybatis.mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.interceptor" />
+      <recent name="com.atguigu.spring.test" />
+      <recent name="com.atguigu.mybatis.utils" />
+      <recent name="com.atguigu.mybatis.pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.SpringMVC">
+    <configuration name="JDBCTemplateTest.testGetAllUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-transaction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring.test.JDBCTemplateTest" />
+      <option name="METHOD_NAME" value="testGetAllUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTemplateTest.testGetCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-transaction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring.test.JDBCTemplateTest" />
+      <option name="METHOD_NAME" value="testGetCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxByAnnotationTest.testBuyBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-transaction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring.test.TxByAnnotationTest" />
+      <option name="METHOD_NAME" value="testBuyBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxByXMLTest.testBuyBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-transaction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring.test.TxByXMLTest" />
+      <option name="METHOD_NAME" value="testBuyBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SSM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SSM" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringMVC" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="$PROJECT_DIR$/../../../../../../environment/jdk-18.0.2">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="ssm2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ssm" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="6d734b5c-483d-4997-b187-fe6e72153ddd" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61750" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.JDBCTemplateTest.testGetAllUser" />
+      <item itemvalue="JUnit.JDBCTemplateTest.testGetCount" />
+      <item itemvalue="JUnit.TxByAnnotationTest.testBuyBook" />
+      <item itemvalue="JUnit.TxByXMLTest.testBuyBook" />
+      <item itemvalue="Tomcat 服务器.SpringMVC" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TxByXMLTest.testBuyBook" />
+        <item itemvalue="JUnit.TxByAnnotationTest.testBuyBook" />
+        <item itemvalue="JUnit.JDBCTemplateTest.testGetCount" />
+        <item itemvalue="JUnit.JDBCTemplateTest.testGetAllUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="GBK" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1df8ddc0-87ef-4558-a20e-ec86fa6a0b44" name="变更" comment="" />
+      <created>1658477577976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658477577976</updated>
+      <workItem from="1658477579331" duration="4466000" />
+      <workItem from="1658482097724" duration="1138000" />
+      <workItem from="1658483396815" duration="661000" />
+      <workItem from="1658484077771" duration="12000" />
+      <workItem from="1658484102310" duration="24603000" />
+      <workItem from="1658630129230" duration="9404000" />
+      <workItem from="1658655394999" duration="4061000" />
+      <workItem from="1658712417087" duration="71620000" />
+      <workItem from="1659315418822" duration="51622000" />
+      <workItem from="1659917302236" duration="29498000" />
+      <workItem from="1660120547428" duration="6273000" />
+      <workItem from="1660181817327" duration="83000" />
+      <workItem from="1660181914451" duration="11313000" />
+      <workItem from="1660262613968" duration="1183000" />
+      <workItem from="1660264408706" duration="4760000" />
+      <workItem from="1660305214951" duration="3173000" />
+      <workItem from="1660362624900" duration="619000" />
+      <workItem from="1660375080525" duration="5934000" />
+      <workItem from="1660382655516" duration="15438000" />
+      <workItem from="1660468630268" duration="308000" />
+      <workItem from="1660468947647" duration="486000" />
+      <workItem from="1660469442117" duration="83000" />
+      <workItem from="1660469534563" duration="16247000" />
+      <workItem from="1660613028394" duration="9930000" />
+      <workItem from="1660638059245" duration="3755000" />
+      <workItem from="1660700353503" duration="4758000" />
+      <workItem from="1660705318759" duration="2089000" />
+      <workItem from="1660720735760" duration="20408000" />
+      <workItem from="1660868721772" duration="248000" />
+      <workItem from="1660868978951" duration="9283000" />
+      <workItem from="1660878867318" duration="19618000" />
+      <workItem from="1662340331270" duration="14999000" />
+      <workItem from="1663245543522" duration="24000" />
+      <workItem from="1664076732240" duration="13938000" />
+      <workItem from="1664185867457" duration="2350000" />
+      <workItem from="1664263684917" duration="1203000" />
+      <workItem from="1664449602020" duration="324000" />
+      <workItem from="1665302933572" duration="722000" />
+      <workItem from="1665310937347" duration="54000" />
+      <workItem from="1665362440414" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../../../environment/repository/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
+          <line>1064</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../../../environment/repository/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
+          <line>1069</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
