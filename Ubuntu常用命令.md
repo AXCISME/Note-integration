@@ -5,4 +5,8 @@
    #结束进程
    kill -9 pid
 
-   
+2. 查看实时网速
+
+   sudo apt install ifstat
+
+   ifstat
