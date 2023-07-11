@@ -10,3 +10,9 @@
    sudo apt install ifstat
 
    ifstat
+
+3. 线程运行诊断
+
+   - top:定位哪个进程对cpu占用过高
+   - ps H -eo pid,tid,%cpu | grep 进程id
+   - jstack 进程id
